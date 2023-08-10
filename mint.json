@@ -10,6 +10,9 @@
     "primary": "#0E0E0E",
     "light": "#FAFAFA",
     "dark": "#0E0E0E",
+    "background": {
+      "dark": "#222122"
+    },
     "anchors": {
       "from": "#FFC499",
       "to": "#bc8861"
@@ -25,27 +28,16 @@
     "name": "Get Started",
     "url": "https://tally.so/r/nG9lPz"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "API Reference",
+      "icon": "rectangle-terminal",
+      "url": "api-reference"
     },
     {
       "name": "Community",
       "icon": "slack",
       "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
